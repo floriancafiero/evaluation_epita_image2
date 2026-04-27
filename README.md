@@ -46,7 +46,7 @@ The central scientific question is therefore:
 
 > Is visual privacy predictable from visual cues alone, or does it depend too much on social context?
 
-This project asks students to investigate this question using classical machine learning methods.
+This project asks you to investigate this question using classical machine learning methods.
 
 ---
 
@@ -58,8 +58,7 @@ The data comes from the artifact associated with the following paper:
 
 For this project, we use only the **PrivacyAlert** part of the dataset.
 
-Students do **not** work directly on the original images.  
-They work on already extracted visual features.
+Students do **not** work directly on the original images.  They work on already extracted visual features.
 
 The relevant files are:
 
@@ -167,7 +166,8 @@ Students may use methods seen in class, including:
 - k-means;
 - hierarchical clustering;
 - Gaussian Mixture Models;
-- HDBSCAN.
+- DBSCAN / HDBSCAN.
+- Any other method outside of DeepLearning / GenAI is accepted
 
 ---
 
@@ -211,7 +211,7 @@ Therefore, the **recall of the private class** is a central metric.
 
 ## Possible project topics
 
-Each group should focus on one of the following questions.
+Each group should focus on at least two of the following questions.
 
 ### Topic 1 — Scene features vs object features
 
