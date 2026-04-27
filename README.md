@@ -86,7 +86,7 @@ data/
 └── scenes_privacyalert.zip
 ```
 
-For this project, use only the **PrivacyAlert** part of the data.
+For this project, use only the **PrivacyAlert** part of the data from the Zenodo repository of their paper.
 
 Do not use:
 
@@ -95,8 +95,6 @@ Do not use:
 - IPD;
 - graph data;
 - original images.
-
-Unless the teacher explicitly asks for it.
 
 ---
 
