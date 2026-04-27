@@ -365,7 +365,7 @@ Therefore, the **recall of the private class** is a central metric.
 
 ## Suggested project topics
 
-Each group should focus on one of the following questions.
+Each group should focus on at least two of the following questions.
 
 ### Topic 1 — User tags vs deep tags
 
